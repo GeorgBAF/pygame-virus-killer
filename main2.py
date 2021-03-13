@@ -308,15 +308,3 @@ def main():
 # Don't run if it is imported into another file.
 if __name__ == "__main__":
     main()
-
-
-# mangler: 
-# Make exe to share. Problems init sound - line 8: 
-# pygame.error: WASAPI can't initialize audio client..
-# https://stackoverflow.com/questions/62936621/python-pygame-error-when-executing-exe-file
-#
-# Inserts comment in the top about original code and modifications made. 
-#
-# Test exe (Shirlys PC) -> does it have problems closing down?
-# Share code on Github with comment to where you stole the source-code/pictures/sound effects
-
