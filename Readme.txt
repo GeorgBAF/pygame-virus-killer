@@ -1,4 +1,4 @@
-# Simple 2-player space stoot'm'up game using pygame. I used the original code that Tim (Tech with Tim) goes through and shares in this video. 
+# Simple 2-player space shoot'm'up game using pygame. I used the original code that Tim (Tech with Tim) goes through and shares in this video. 
 # https://www.youtube.com/watch?v=jO6qQDNa2UY
 # 
 # I added/changed the follow functionality in Tims original code:
